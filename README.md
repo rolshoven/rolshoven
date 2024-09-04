@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [a SNF funded research project to analyze sustainability in public procurement call for tender documents using NLP methods](https://data.snf.ch/grants/grant/10000100)
 
-- 🔭 I’m also currently participating in [the LLM Merging Competition](https://llm-merging.github.io/rules)
-
 - 📫 How to reach me: **luca@rolshoven.io**
 
 <h3 align="left">Connect with me:</h3>
